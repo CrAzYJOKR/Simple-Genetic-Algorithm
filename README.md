@@ -1,4 +1,12 @@
-# Simple-Genetic-Algorithm
-A Simple Genetic Algorithm using Python
+# Simple Genetic Algorithm
 
-This was made using the Medium Article https://medium.com/@gabogarza/simple-genetic-algorithm-6d6aafcc310a by Gabriel Garza as reference.
+[Link to Medium post](https://medium.com/@gabogarza/simple-genetic-algorithm-6d6aafcc310a)
+
+To run this code first clone the repo:
+`git clone git@github.com:gabrielgarza/simple-genetic-algorithm.git`
+
+Go into the repo directory:
+`cd simple-geneteic-algorightm`
+
+Run the file:
+`python evolve.py`
